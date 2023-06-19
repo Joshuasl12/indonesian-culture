@@ -39,7 +39,7 @@
     <!--NAVBAR-->
     <div class="d07-top">
         <div class="d07-bar d07-white d07-card" id="DNavbar">
-            <a href="#home" class="d07-bar-item d07-button d07-wide">Indonesian Culture</a>
+            <a href="#home" class="d07-bar-item d07-button d07-wide">COURISM</a>
             <!--NAVBAR LINK-->
             <div class="d07-right d07-hide-small">
                 <a href="#about-us" class="d07-bar-item d07-button">About us</a>
@@ -60,7 +60,7 @@
     <!--HEADER WITH FULL IMAGE-->
     <header class="bgimg-1 d07-display-container d07-grayscale-min" id="home">
         <div class="d07-display-left d07-text-white" style="padding:48px">
-            <span class="d07-jumbo d07-hide-small"><strong>Welcome to Indonesian Culture 3D Website</span><br>
+            <span class="d07-jumbo d07-hide-small"><strong>Welcome to Courism 3D Website</span><br>
             <p><a href="#ar" class="d07-button d07-white d07-padding-large d07-large d07-margin-top d07-opacity d07-hover-opacity-off d07-round-large">Click Here!</a></p>
         </div>
         <div class="d07-displat-bottomleft d07-text-grey d07-large" style="padding:24px 48px">
