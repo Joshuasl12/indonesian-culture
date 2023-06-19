@@ -1,0 +1,68 @@
+body{
+    background: #ffff;
+
+}
+
+
+.navbar{
+    background: #CC3838;
+}
+
+.logo{
+    color: #ffff;
+}
+
+.text1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffff;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 1180px;
+   
+}
+   
+
+.logo{
+    margin-bottom: 26;
+    margin-left: 11;
+}
+
+.nav-item1{
+    margin-left: 1175px;
+    margin-top: -35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffff;
+}
+
+.nav-item2{
+    margin-left: 1250px;
+    margin-top: -40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nav-item3{
+    margin-left: 1350px;
+    margin-top: -40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gambar{
+    margin-top: 100px;
+    margin-left: 650px;
+}
+
+.text5{
+    margin-top: 50px;
+    margin-left: 400px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.text6{
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: justify;
+    margin-inline-start: 400px;
+    margin-inline-end: 320px;
+}

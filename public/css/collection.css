@@ -1,0 +1,104 @@
+body {
+	background: #ffff;
+}
+
+.navbar {
+	background: #cc3838;
+}
+
+.logo {
+	color: #ffff;
+}
+
+.text1 {
+	font-family: "Courier New", Courier, monospace;
+	color: #ffff;
+	font-weight: bold;
+	font-size: 20px;
+	margin-right: 1180px;
+}
+
+.logo {
+	margin-bottom: 26;
+	margin-left: 11;
+}
+
+.nav-item1 {
+	margin-left: 1175px;
+	margin-top: -35px;
+	font-family: "Courier New", Courier, monospace;
+	color: #ffff;
+}
+
+.nav-item2 {
+	margin-left: 1250px;
+	margin-top: -40px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.nav-item3 {
+	margin-left: 1350px;
+	margin-top: -40px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+.judul {
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+	margin-top: 80px;
+	font-weight: bold;
+}
+
+.kartu2 {
+	margin-left: -285px;
+}
+
+.kartu3 {
+	margin-left: 920px;
+	margin-top: -380px;
+}
+
+.kartu4 {
+	margin-left: -745px;
+}
+
+.kartu5 {
+	margin-left: -645px;
+}
+
+.kartu6 {
+	margin-top: -333px;
+	margin-left: 155px;
+}
+
+.kartu7 {
+	margin-left: -1105px;
+}
+
+.kartu8 {
+	margin-left: -815px;
+}
+
+.kartu9 {
+	margin-top: -333px;
+	margin-left: -210px;
+}
+
+.card-title {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: 700;
+	text-align: center;
+	font-size: 24px;
+}
+
+.card-text {
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+	font-size: 24px;
+	margin-top: -10px;
+}
+
+.box {
+	background: #333333;
+	margin-left: -1261px;
+}
